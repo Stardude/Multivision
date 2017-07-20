@@ -1,0 +1,35 @@
+body {
+  padding-top: 61px; }
+
+.navbar-header a.navbar-brand {
+  margin-top: -15px;
+  margin-bottom: -20px; }
+  .navbar-header a.navbar-brand h6 {
+    color: #ccc; }
+
+footer {
+  padding: 0px 15px 15px 0px; }
+  footer p {
+    border-top: 1px solid #d7e0e2; }
+
+.navbar-inverse {
+  background-color: #3c763d; }
+
+.navbar-form .form-group {
+  margin-left: 10px; }
+.navbar-form button {
+  margin-left: 10px; }
+
+.top-padding-med {
+  padding-top: 10px; }
+
+.margin-left-med {
+  margin-left: 10px; }
+
+.toast-top-right {
+  top: 70px; }
+
+.toast-success {
+  background-color: blue; }
+
+/*# sourceMappingURL=site.css.map */
